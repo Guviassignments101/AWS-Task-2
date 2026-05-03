@@ -66,6 +66,10 @@ Accessed the internet to download and install a web server
 
  <img width="942" height="300" alt="image" src="https://github.com/user-attachments/assets/bef07954-d32e-4f4f-a977-e27d74465a9e" />
 
+ <img width="1090" height="583" alt="image" src="https://github.com/user-attachments/assets/d40fe10e-129c-4585-9606-84c7e4dbd2b8" />
+
+ 
+
 
 
 
